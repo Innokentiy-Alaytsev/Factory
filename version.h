@@ -1,4 +1,4 @@
-/* Version 0.1.1 */
+/* Version 0.1.2 */
 #define __SOFTWARE_VERSION_MAJOR__ 0
 #define __SOFTWARE_VERSION_MINOR__ 1
-#define __SOFTWARE_VERSION_PATCH__ 1
+#define __SOFTWARE_VERSION_PATCH__ 2
